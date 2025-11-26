@@ -1,0 +1,2 @@
+# Breast-Cancer-Classification-using-Machine-Learning
+AI/ML Healthcare Diagnosis System predicts breast cancer (benign vs malignant) with 97.08% accuracy using Random Forest classifier. Features interactive Streamlit web app with risk assessment, comprehensive documentation (15,000+ words), automated tests (5/5 passing), and Git version control. Complete production-ready ML pipeline demonstration.
